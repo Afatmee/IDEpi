@@ -14,9 +14,9 @@ redirect_from:
 
 📚 Currently I'm working towards my MPhil modules for the PhD program in the field of Pandemic Response Planning. 
 
-🧰 I'm also interested in exploring new statistical visualization and programming tools! *Confession: You'll always find one tab open on my laptop... and it's probably about a shiny new research technique I just can't get enough of* 
+🤖 *Confession: You'll always find one tab open on my laptop... and it's probably about a shiny new research technique I just can't get enough of* 
 
-#What's the 411 in My World of ID Epi?
+## What's the 411 in My World of ID Epi?
 
 - **Sept '24**:👩‍🔬 Joined as Post-Graduate Researcher at [*Warwick Medical School*]([https://ece.umd.edu/](https://warwick.ac.uk/fac/sci/med/)) at their [IGPP](https://warwick.ac.uk/fac/cross_fac/igpp/)!
 - **Aug '23**: 🫡 Bid farewell to my Global Burden of Disease evaluation team @ [*Research and Development Solutions*](https://resdev.org/) 
